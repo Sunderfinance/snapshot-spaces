@@ -1,9 +1,9 @@
 {
     "tokens":{
         "dtoken":{
-         "adds":"0xAFF69aB19f4F1436A530E5855fa8F28E93A44c77",
+         "adds":"0x9f90978Dd07932DB0390F2cEf65da25c4Cd62111",
          "symbol":"dCOMP",
-         "name":"dToken",
+         "name":"COMP dToken",
          "img":"d@2x.png"
         }
     }
