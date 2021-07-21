@@ -1,9 +1,10 @@
 {
     "tokens":{
         "dtoken":{
-         "adds":"address",
-         "symbol":"symbol",
-         "name":"name"
+         "adds":"0xAFF69aB19f4F1436A530E5855fa8F28E93A44c77",
+         "symbol":"dCOMP",
+         "name":"dToken Comp",
+         "img":"d@2x.png"
         }
     }
 }
