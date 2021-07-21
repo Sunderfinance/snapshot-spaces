@@ -1,0 +1,9 @@
+{
+    "tokens":{
+        "dtoken":{
+         "adds":"address",
+         "symbol":"symbol",
+         "name":"name"
+        }
+    }
+}
